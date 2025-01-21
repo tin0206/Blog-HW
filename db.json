@@ -1,0 +1,26 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "Bai viet 1",
+      "content": "Noi dung bai viet 1 rat hay"
+    },
+    {
+      "id": "2",
+      "title": "Bai viet 2",
+      "content": "Noi dung bai viet 2 rat hay"
+    }
+  ],
+  "accounts": [
+    {
+      "id": "1",
+      "username": "spiderman",
+      "email": "spider@gmail.com"
+    },
+    {
+      "id": "2",
+      "username": "batman",
+      "email": "bat@gmail.com"
+    }
+  ]
+}
