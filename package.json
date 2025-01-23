@@ -1,0 +1,11 @@
+{
+  "devDependencies": {
+    "json-server-auth": "^2.1.0"
+  },
+  "scripts": {
+    "start": "json-server-auth -w user.json"
+  },
+  "dependencies": {
+    "json-server": "^0.17.4"
+  }
+}

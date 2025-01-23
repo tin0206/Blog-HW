@@ -7,6 +7,11 @@ const routes = [
     component: Home,
   },
   {
+    path: '/login',
+    name: 'login',
+    component: () => import('./pages/Login.vue'),
+  },
+  {
     path: '/detail/:id',
     name: 'detail',
     props: true,
@@ -17,6 +22,14 @@ const routes = [
     name: 'account',
     props: true,
     component: () => import('./pages/Account.vue'),
+  },
+  {
+    path: '/profile',
+    name: 'profile',
+    component: () => import('./pages/Profile.vue'),
+    meta: {
+      requiresAuth: true,
+    }
   }
 ]
 

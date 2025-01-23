@@ -22,5 +22,27 @@
       "username": "batman",
       "email": "bat@gmail.com"
     }
+  ],
+  "users": [
+    {
+      "email": "olivier@mail.com",
+      "password": "$2a$10$rquWNOnnGp3f348KIvW68.A1NWA.uD8jpSG6zmKNXRXzIWtXly5ZS",
+      "id": "1"
+    },
+    {
+      "email": "abc@gmail.com",
+      "password": "$2a$10$gOryq8Hxl1Skj1pSg16oIOdszODv.v1sKLPQ.n4We54dBjcCEe7iy",
+      "id": "2"
+    },
+    {
+      "email": "tin@gmail.com",
+      "password": "123",
+      "id": "3"
+    },
+    {
+      "email": "tin26@gmail.com",
+      "password": "$2a$10$TPUHxCWqfXteJb9Y.0t8W.duDb9UVXxpYrwl29YiTakzE1WpZQ0oq",
+      "id": "4"
+    }
   ]
 }
